@@ -17,7 +17,7 @@
   <a href="https://instagram.com/matt.with2ts" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="math.filipe23@gmail.com" target="_blank">
+  <a href="mailto:math.filipe23@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/matheus-filipe-b383312b3/" target="_blank">
