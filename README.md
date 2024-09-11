@@ -1,4 +1,4 @@
-<img width="100%" height="auto" src="https://capsule-render.vercel.app/api?type=waving&color=36027e&height=120&section=header"/>
+<img width="100%" height="auto" style="min-height: 150px;" src="https://capsule-render.vercel.app/api?type=waving&color=36027e&height=120&section=header"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2900dc&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Matheus+Filipe;I'm+23+years+old;I+am+from+Poá,+SP;I+Study+ADS+at+Fatec;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
