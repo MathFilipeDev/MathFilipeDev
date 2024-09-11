@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36027e&height=120&section=header"/>
+<img width="100%" height="auto" src="https://capsule-render.vercel.app/api?type=waving&color=36027e&height=120&section=header"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2900dc&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Matheus+Filipe;I'm+23+years+old;I+am+from+Poá,+SP;I+Study+ADS+at+Fatec;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <img width="50%" height="auto" src="https://github-readme-stats.vercel.app/api?username=MathFilipeDev&show_icons=true&count_private=true&hide_border=true&title_color=2900dc&icon_color=6200ea&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Filipe github stats" /> 
-  <img width="50%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathFilipeDev&layout=compact&hide_border=true&title_color=6200ea&text_color=6200ea&bg_color=0d1117" />
+  <img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api?username=MathFilipeDev&show_icons=true&count_private=true&hide_border=true&title_color=2900dc&icon_color=6200ea&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Filipe github stats" /> 
+  <img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathFilipeDev&layout=compact&hide_border=true&title_color=6200ea&text_color=6200ea&bg_color=0d1117" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MathFilipeDev&bg_color=0d1117&color=2900dc&line=6200ea&point=36027e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
